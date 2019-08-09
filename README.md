@@ -7,4 +7,4 @@ This should be the folder structrue after all dependencies installations .
 
 
 
-https://user-images.githubusercontent.com/29656920/62796421-d765b980-baf6-11e9-9095-2ade3def4ef6.png)
+https://user-images.githubusercontent.com/29656920/62796421-d765b980-baf6-11e9-9095-2ade3def4ef6.png
